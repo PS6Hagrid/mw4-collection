@@ -1,4 +1,4 @@
-MW4 Collection
+# MW4 Collection
 
 Deine MW4-Camos als Sammelalbum. Die App trägt selbst ein, was du freigeschaltet hast: Du öffnest im Spiel den Tarnungen-Bildschirm einer Waffe, und eine Sekunde später klebt der Sticker im Album.
 
