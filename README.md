@@ -12,7 +12,7 @@ Ein Fan-Projekt unter Freunden, nicht von Activision und nicht mit Call of Duty 
 3. Die App startet ab dann mit Windows. Beim ersten Start erklärt dir eine Karte das Wichtigste.
 4. **MW4 auf „Vollbild (randlos)“ stellen.** Im exklusiven Vollbild sieht die App nur Schwarz und sagt dir das oben in der Leiste.
 
-Getestet mit 2560×1440 und dem Spiel auf Deutsch oder Englisch. Andere Auflösungen können klappen, sind aber noch nicht geprüft.
+Geprüft im Format 16:9 mit dem Spiel auf Deutsch oder Englisch: 2560×1440 im Spiel, 1920×1080 und 3840×2160 mit umgerechneten Aufnahmen. Ultrawide (21:9) und 16:10 sind noch nicht geprüft. Hast du so einen Bildschirm, drück im Spiel auf dem Tarnungen-Bildschirm `Strg+Umschalt+P` und schick den Ordner vom Desktop.
 
 ## Was die App tut, und was nie
 
