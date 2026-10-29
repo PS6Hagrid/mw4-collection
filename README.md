@@ -17,6 +17,7 @@ Geprüft im Format 16:9 mit dem Spiel auf Deutsch oder Englisch: 2560×1440 im S
 ## Was die App tut, und was nie
 
 - Sie liest nur den Bildschirm, wie OBS oder Medal, mit der Texterkennung von Windows auf deinem PC. Ins Spiel greift sie nie ein.
+- **Auf eigenes Risiko.** Activisions Regeln erlauben keine fremde Software, die mit dem Spiel zusammenarbeitet oder Informationen daraus liest. Das trifft auch diese App, so wie streng genommen OBS oder Discord. Activision geht nach allem, was bekannt ist, gegen Cheats vor: Programme, die ins Spiel eingreifen, seinen Speicher lesen oder Eingaben fälschen. Nichts davon tut die App, eine Garantie gegen eine Sperre ist das aber nicht. Am vorsichtigsten bist du mit ausgeschaltetem Overlay: Rechtsklick auf das Symbol im Infobereich → „Overlay im Spiel“.
 - Dein Fortschritt bleibt auf deinem PC (`%APPDATA%\MW4 Collection`).
 - Ins Internet geht nur die Update-Prüfung: Sie fragt hier bei GitHub nach einer neuen Version.
 
