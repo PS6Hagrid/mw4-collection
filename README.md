@@ -12,7 +12,7 @@ Ein Fan-Projekt unter Freunden, nicht von Activision und nicht mit Call of Duty 
    - Warnt dein Browser, die Datei werde selten heruntergeladen, wähl **„Beibehalten“** (bei Edge über „…“). Das kommt davon, dass die App nicht signiert ist.
 2. Doppelklicken. Windows warnt einmal, weil die App nicht signiert ist: **„Weitere Informationen“ → „Trotzdem ausführen“**.
 3. Die App startet ab dann mit Windows. Beim ersten Start erklärt dir eine Karte das Wichtigste.
-4. **MW4 auf „Vollbild (randlos)“ stellen.** Im exklusiven Vollbild sieht die App nur Schwarz und sagt dir das oben in der Leiste.
+4. **MW4 auf „Vollbild (rahmenloses Fenster)“ stellen.** Sieht die App nur Schwarz, sagt sie dir das oben in der Leiste.
 
 Geprüft im Format 16:9 mit dem Spiel auf Deutsch oder Englisch: 2560×1440 im Spiel, 1920×1080 und 3840×2160 mit umgerechneten Aufnahmen. Ultrawide (21:9) und 16:10 sind noch nicht geprüft. Hast du so einen Bildschirm, drück im Spiel auf dem Tarnungen-Bildschirm `Strg+Umschalt+P` und schick den Ordner vom Desktop.
 
