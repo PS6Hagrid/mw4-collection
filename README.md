@@ -2,7 +2,7 @@
 
 Deine MW4-Camos als Sammelalbum. Die App trägt selbst ein, was du freigeschaltet hast: Du öffnest im Spiel den Tarnungen-Bildschirm einer Waffe, und eine Sekunde später klebt der Sticker im Album.
 
-Auch mitten im Match: Zeigt das Spiel „Herausforderung abgeschlossen“, hakt die App eine Spezial-, Gold-, Platin- oder Harmonische-Auszeit-Tarnung gleich ab, wenn sie sicher erkennt, welche es war. Sonst holt sie es nach, sobald du den Tarnungen-Bildschirm öffnest.
+Auch mitten im Match: Zeigt das Spiel „Herausforderung abgeschlossen“, hakt die App eine Spezial-, Gold-, Platin- oder Harmonische-Auszeit-Tarnung gleich ab, wenn sie sicher erkennt, welche es war. Zeigt es „Freigeschaltet“ mit einer Militärtarnung, hakt sie die ebenfalls gleich ab. Sonst holt sie es nach, sobald du den Tarnungen-Bildschirm öffnest.
 
 Unter „Aufgaben“ siehst du, welche Spezial-Tarnungen dir noch fehlen, nach Sorte: etwa alle offenen Longshots auf einen Blick. Eine Zeile für euren Chat kopierst du mit einem Klick.
 
